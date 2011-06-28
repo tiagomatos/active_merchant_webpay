@@ -1,4 +1,4 @@
-Pending documentation and test
+For Rails agnostic purposes.
 
 Notes:
   Only works on linux with i386 libs.
